@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Info Record</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo Electrónico</string>
+    <string name="telefono">Teléfono</string>
+    <string name="clave">Contraseña</string>
+    <string name="claveAgain">Repetir Contraseña</string>
+    <string name="fecha">Fecha de Nacimiento</string>
+    <string name="fecha_nacimiento">MM/dd/yyyy</string>
+    <string name="lugar_nacimiento">Lugar de Nacimiento</string>
+    <string name="sexo">Género</string>
+    <string name="sexM">Masculino</string>
+    <string name="sexF">Femenino</string>
+    <string name="hobbie">Hobbies</string>
+    <string name="cocinar">Cocinar</string>
+    <string name="leer">Leer</string>
+    <string name="bailar">Bailar</string>
+    <string name="cantar">Cantar</string>
+    <string name="videojuego">PS/Xbox</string>
+    <string name="series">Series</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="datos">Hola a todos</string>
+
+    <string-array name="lista_ciudades">
+        <item>Bogotá</item>
+        <item>Medellín</item>
+        <item>Cali</item>
+        <item>Barranquilla</item>
+        <item>Cartagena</item>
+        <item>Soacha</item>
+        <item>Cúcuta</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:minHeight="?attr/actionBarSize"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/navajowhite"
+    app:titleTextColor="@color/lightseagreen"
+    app:logo="@mipmap/ic_launcher"
+    app:title="  Formulario de Registro"
+    android:elevation="4dp"
+    android:theme="@style/AppThemeCustomToolbar"
+    app:popupTheme="@style/AppThemeCustomMenuToolbar">
+
+</androidx.appcompat.widget.Toolbar>
