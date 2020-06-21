@@ -20,6 +20,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        // Bandera para indicar si ya se guardó una fecha
         var flag = false
 
         // Establecer mi toolbar como toolbar de la actividad
